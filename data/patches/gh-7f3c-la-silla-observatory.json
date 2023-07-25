@@ -1,0 +1,120 @@
+{
+	"id": -1,
+	"name": "La Silla Observatory",
+	"description": "La Silla Observatory is an astronomical observatory located in Chile that has eighteen telescopes. Five of them were built by the European Southern Observatory organization, while others are partly maintained by ESO. The observatory is one of the largest in the southern hemisphere.",
+	"links": {
+		"website": [
+			"https://www.eso.org/public/chile/teles-instr/lasilla/"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1269,
+				-850
+			],
+			[
+				-1271,
+				-870
+			],
+			[
+				-1274,
+				-873
+			],
+			[
+				-1271,
+				-877
+			],
+			[
+				-1271,
+				-879
+			],
+			[
+				-1271,
+				-880
+			],
+			[
+				-1273,
+				-881
+			],
+			[
+				-1276,
+				-881
+			],
+			[
+				-1278,
+				-880
+			],
+			[
+				-1279,
+				-879
+			],
+			[
+				-1283,
+				-880
+			],
+			[
+				-1289,
+				-880
+			],
+			[
+				-1289,
+				-882
+			],
+			[
+				-1281,
+				-882
+			],
+			[
+				-1282,
+				-888
+			],
+			[
+				-1290,
+				-888
+			],
+			[
+				-1291,
+				-880
+			],
+			[
+				-1291,
+				-878
+			],
+			[
+				-1296,
+				-874
+			],
+			[
+				-1299,
+				-868
+			],
+			[
+				-1302,
+				-859
+			],
+			[
+				-1304,
+				-849
+			],
+			[
+				-1302,
+				-845
+			],
+			[
+				-1299,
+				-843
+			],
+			[
+				-1270,
+				-850
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1285,
+			-862
+		]
+	}
+}
